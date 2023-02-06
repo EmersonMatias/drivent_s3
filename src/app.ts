@@ -18,7 +18,6 @@ import {
   hotelsRouter,
 } from "@/routers";
 
-
 const app = express();
 app
   .use(cors())
